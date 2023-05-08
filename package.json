@@ -1,0 +1,23 @@
+{
+  "name": "od-js",
+  "version": "1.0.0",
+  "description": "华为OD机试仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mewcoder/od-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mewcoder/od-js/issues"
+  },
+  "homepage": "https://github.com/mewcoder/od-js#readme",
+  "devDependencies": {
+    "vitest": "^0.31.0"
+  }
+}
